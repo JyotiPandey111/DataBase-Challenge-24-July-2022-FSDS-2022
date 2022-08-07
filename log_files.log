@@ -1,0 +1,29 @@
+[2022-08-07 15:41:51,849: INFO: 1476479287]: Performing Pandas Task
+[2022-08-07 15:41:52,639: INFO: 1712020142]: Reading Excel File Attribute DataSet
+[2022-08-07 15:41:55,810: INFO: 1350300095]: Reading Excel File Dress Sales
+[2022-08-07 15:42:36,177: INFO: 1120858522]: All the null values got handled in 'Attributes Dataset'
+[2022-08-07 15:43:32,086: INFO: 507206450]:  All the null values got handled in Dress Sales Dataset
+[2022-08-07 15:44:57,375: INFO: 286925657]: Converting Excel file 'Attribute DataSet' into Json file
+[2022-08-07 15:44:57,378: INFO: 286925657]: Converting Excel file 'Dress Sales' into Json file
+[2022-08-07 15:44:57,389: INFO: 286925657]: json files for both the dataset created
+[2022-08-07 15:45:07,233: INFO: 1328380789]: csv files for both the dataset created
+[2022-08-07 15:45:53,716: INFO: 2110539134]: 
+
+
+[2022-08-07 15:45:53,716: INFO: 2110539134]: PERFORMING SQL TASKS
+[2022-08-07 15:45:53,716: INFO: 2110539134]: Creating SQL Functions
+[2022-08-07 15:46:08,933: INFO: 2429708592]: Connection to MySQL is successful.
+[2022-08-07 15:46:15,936: INFO: 4073542005]: Database created successfully.
+[2022-08-07 15:46:17,224: INFO: 1181200610]: Connected to the Database Successfully.
+[2022-08-07 15:46:45,531: INFO: 1085010002]: Successfully Loading and reading the datasets from sql
+[2022-08-07 15:47:03,386: INFO: 930096021]: Successfully joined two datasets
+[2022-08-07 15:51:03,724: INFO: 3854453678]: Successfully find out unique dress we have.
+[2022-08-07 15:51:08,463: INFO: 1714695347]: Successfully executed the query
+[2022-08-07 15:51:27,611: INFO: 1140595696]: Successfully found out the total dress sold
+[2022-08-07 18:58:14,354: INFO: 1974627239]: 
+
+
+[2022-08-07 18:58:14,354: INFO: 1974627239]: PERFORMING MongoDB TASKS
+[2022-08-07 18:58:14,354: INFO: 1974627239]: Connection to MongoDB server is successful.
+[2022-08-07 19:01:32,021: INFO: 1949215977]: Data inserted successfully.
+[2022-08-07 19:01:34,305: INFO: 4165792708]: Data extracted from MongoDB successfully
